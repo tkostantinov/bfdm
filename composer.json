@@ -1,0 +1,12 @@
+{
+    "name": "tkostantinov/bfdm",
+    "description": "Comprigo Assignment Broccoli flavored MarkDown",
+    "authors": [
+        {
+            "name": "Tomislav Kostantinov",
+            "email": "tomislav.kostantinov@yahoo.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
